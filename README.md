@@ -11,13 +11,13 @@ _Dynamical Modeling of Behaviorally Relevant Spatiotemporal Patterns in Neural I
 
 The following notebook contains usage examples of SBIND for several use-cases:
 
-*   [source/tutorial.ipynb](source/tutorial.ipynb)
+*   [source/tutorial.ipynb](./tutorial.ipynb)
 
 
 ## Key Classes
 
 The following are the key classes used to implement the SBIND formulation as explained in the preprint:
 
-*   **`CONVBIND`** (`./source/bind/convbind.py`): This class implements the full ConvRNN model.
+*   **`CONVSBIND`** (`./sbind/convsbind.py`): This class implements the full ConvRNN model.
 
-*   **`BINDTrainer`** (`./source/bind/bind_trainer.py`): Contains the trainer to fit, predict, and validation functions.
+*   **`SBINDTrainer`** (`./sbind/sbind_trainer.py`): Contains the trainer to fit, predict, and validation functions.
