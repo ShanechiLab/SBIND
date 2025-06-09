@@ -10,11 +10,11 @@ Sayed Mohammad Hosseini and Maryam M. Shanechi. _Dynamical Modeling of Behaviora
 # Usage Examples
 The following notebook contains usage examples of SBIND for several use-cases:
 
-* source/sbind/example/tutorial.ipynb
+* `./example/tutorial.ipynb`
 
 A .py script version of the same notebook is also available in the same directory:
 
-* source/sbind/example/tutorial.py
+* `./example/tutorial.py`
 
 # Key Classes
 The following are the key classes used to implement the SBIND formulation as explained in the paper.
