@@ -5,7 +5,7 @@
 # Publication
 This repository provides the implementation of SBIND (Spatiotemporal Behavior modeling in Imaging Neural Data), a deep learning framework for modeling raw neural imaging data.
 
-Sayed Mohammad Hosseini and Maryam M. Shanechi. _Dynamical Modeling of Behaviorally Relevant Spatiotemporal Patterns in Neural Imaging Data_. In Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025.
+Mohammad Hosseini and Maryam M. Shanechi. _Dynamical Modeling of Behaviorally Relevant Spatiotemporal Patterns in Neural Imaging Data_. In Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025.
 
 # Usage Examples
 The following notebook contains usage examples of SBIND for several use-cases:
@@ -30,6 +30,6 @@ The following are the key classes used to implement the SBIND formulation as exp
 # License
 Copyright (c) 2025 University of Southern California
 
-Sayed Mohammad Hosseini and Maryam M. Shanechi
+Mohammad Hosseini and Maryam M. Shanechi
 
 Shanechi Lab, University of Southern California
