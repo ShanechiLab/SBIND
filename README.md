@@ -16,10 +16,10 @@ The following notebook contains usage example for SBIND:
 The following are the key classes used to implement the SBIND model based on the formulation explained in the paper.
 
 
-*   **`CONVSBIND`** (`./sbind/convsbind.py`): This is the main SBIND model class. It integrates the two ConvRNN modules (ConvRNN1 for behaviorally relevant dynamics and ConvRNN2 for other neural dynamics) and implements the full two-phase learning process described in the paper.
+*   **`CONVSBIND`** ([`./sbind/convsbind.py`](https://github.com/ShanechiLab/SBIND/blob/master/sbind/sbind.py)): This is the main SBIND model class. It integrates the two ConvRNN modules (ConvRNN1 for behaviorally relevant dynamics and ConvRNN2 for other neural dynamics) and implements the full two-phase learning process described in the paper.
 
 
-*   **`SBINDTrainer`** (`./sbind/sbind_trainer.py`): This class is a utility trainer that contains the functions to fit the SBIND model, generate predictions on new data, and run validation. It handles the training loops, optimization, and saving/loading of the model.
+*   **`SBINDTrainer`** ([`./sbind/sbind_trainer.py`](https://github.com/ShanechiLab/SBIND/blob/master/sbind/sbind_trainer.py)): This class is a utility trainer that contains the functions to fit the SBIND model, generate predictions on new data, and run validation. It handles the training loops, optimization, and saving/loading of the model.
 
 
 
