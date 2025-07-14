@@ -25,6 +25,9 @@ The following are the key classes used to implement the SBIND model based on the
 
 # License
 Copyright (c) 2025 University of Southern California
+
 See full notice in [LICENSE.md](https://github.com/ShanechiLab/SBIND/blob/master/LICENSE.md)
+
 Mohammad Hosseini and Maryam M. Shanechi
+
 Shanechi Lab, University of Southern California
