@@ -10,7 +10,7 @@ Mohammad Hosseini and Maryam M. Shanechi. _Dynamical Modeling of Behaviorally Re
 # Usage Examples
 The following notebook contains usage example for SBIND:
 
-* `./tutorial.ipynb`
+* [`./tutorial.ipynb`](https://github.com/ShanechiLab/SBIND/blob/master/tutorial.ipynb)
 
 # Key Classes
 The following are the key classes used to implement the SBIND model based on the formulation explained in the paper.
